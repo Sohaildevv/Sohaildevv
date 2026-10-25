@@ -1,12 +1,12 @@
 <!-- 
   GitHub Profile README
-  Username: sohailkhann181
+  Username: Sohaildevv
   Keep project descriptions aligned with the actual implementation.
 -->
 
 <div align="center">
 
-<a href="https://github.com/sohailkhann181">
+<a href="https://github.com/Sohaildevv">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sohail%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=17" width="100%" alt="Sohail Khan GitHub banner"/>
 </a>
 
@@ -14,9 +14,9 @@
 
 **Computer Science Undergraduate · Software Developer · AI Enthusiast**
 
-[![GitHub](https://img.shields.io/badge/GitHub-sohailkhann181-181717?style=for-the-badge&logo=github)](https://github.com/sohailkhann181)
+[![GitHub](https://img.shields.io/badge/GitHub-Sohaildevv-181717?style=for-the-badge&logo=github)](https://github.com/Sohaildevv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=sohailkhann181&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/sohailkhann181)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sohaildevv&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/Sohaildevv)
 
 </div>
 
@@ -80,7 +80,7 @@ An academic Final Year Project focused on AI-assisted crop disease identificatio
 
 **Technologies explored:** Next.js · NestJS · PostgreSQL · YOLO · LangGraph · OpenAI
 
-[![Explore Repositories](https://img.shields.io/badge/Explore-My%20Repositories-238636?style=for-the-badge&logo=github)](https://github.com/sohailkhann181?tab=repositories)
+[![Explore Repositories](https://img.shields.io/badge/Explore-My%20Repositories-238636?style=for-the-badge&logo=github)](https://github.com/Sohaildevv?tab=repositories)
 
 ### 📖 Smart Quran — Flutter Application
 
@@ -94,7 +94,7 @@ A mobile application project focused on a convenient Quran-reading experience an
 
 **Technologies:** Flutter · Dart · Firebase Authentication · Hive · SQLite
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/sohailkhann181/smart-quran)
+[![View Repository](https://img.shields.io/badge/View%20Repository-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Sohaildevv/smart-quran)
 
 ### 🏥 MaternalAI — Clinical Delivery Mode Prediction System
 
@@ -107,7 +107,7 @@ A full-stack clinical machine learning application designed to predict maternal 
 
 **Technologies:** Next.js 14 · TypeScript · Tailwind CSS · Random Forest ML · Recharts
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohailkhann181/Delivery-Mode-Prediction-ML-MaternalAI)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sohaildevv/Delivery-Mode-Prediction-ML-MaternalAI)
 
 ### 🛍️ ShopLaunch AI — AI Business Launch Concept
 
@@ -123,7 +123,7 @@ An AI-focused business idea developed in the context of marketing and identifyin
 
 I'm continuing to develop practical projects in AI, full-stack engineering, automation, and mobile development.
 
-[![View All Repositories](https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-2962FF?style=for-the-badge&logo=github)](https://github.com/sohailkhann181?tab=repositories)
+[![View All Repositories](https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-2962FF?style=for-the-badge&logo=github)](https://github.com/Sohaildevv?tab=repositories)
 
 ---
 
@@ -131,16 +131,16 @@ I'm continuing to develop practical projects in AI, full-stack engineering, auto
 
 <div align="center">
 
-<a href="https://github.com/sohailkhann181">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sohailkhann181&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
+<a href="https://github.com/Sohaildevv">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sohaildevv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
 </a>
-<a href="https://github.com/sohailkhann181">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailkhann181&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<a href="https://github.com/Sohaildevv">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaildevv&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sohailkhann181&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Sohaildevv&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -165,7 +165,7 @@ I'm open to learning opportunities, meaningful collaborations, software developm
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohailkhann181)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sohaildevv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 **Thanks for visiting my profile!**
