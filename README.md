@@ -94,6 +94,21 @@ A mobile application project focused on a convenient Quran-reading experience an
 
 **Technologies:** Flutter · Dart · Firebase Authentication · Hive · SQLite
 
+[![View Repository](https://img.shields.io/badge/View%20Repository-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/sohailkhann181/smart-quran)
+
+### 🏥 MaternalAI — Clinical Delivery Mode Prediction System
+
+A full-stack clinical machine learning application designed to predict maternal delivery outcomes using Random Forest classification and clinical metrics.
+
+- 🤖 Real-time Random Forest classification for delivery mode risk assessment.
+- 📊 Interactive clinical analytics dashboard & physiological feature importance visualization.
+- 🔐 Clinician authentication system and diagnostic data management.
+- 📄 Print-ready clinical diagnostic reports for healthcare professionals.
+
+**Technologies:** Next.js 14 · TypeScript · Tailwind CSS · Random Forest ML · Recharts
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohailkhann181/Delivery-Mode-Prediction-ML-MaternalAI)
+
 ### 🛍️ ShopLaunch AI — AI Business Launch Concept
 
 An AI-focused business idea developed in the context of marketing and identifying market opportunities.
